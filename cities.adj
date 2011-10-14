@@ -1,0 +1,12 @@
+ostersund lulea      2
+ostersund stockholm  1
+lulea     stockholm  3 
+lulea     malmo     10
+goteborg  ostersund  4
+goteborg  ystad      5
+stockholm goteborg   2
+stockholm malmo      2
+stockholm ystad      8
+stockholm visby      4
+malmo     visby      6
+visby     ystad      1
